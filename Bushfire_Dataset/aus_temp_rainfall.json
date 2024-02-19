@@ -1,0 +1,516 @@
+{
+    "result": [
+        {
+            "id": "63466cceb6f1379c6229c7aa",
+            "year": 1956,
+            "avg_annual_temp": 23.21666666666667,
+            "avg_annual_rainfall": 1337.3833333333334,
+            "temp_difference": -0.4770977675134702,
+            "rainfall_difference": 396.94852024922125
+        },
+        {
+            "id": "63466cceb6f1379c6229c7ab",
+            "year": 1957,
+            "avg_annual_temp": 23.916666666666668,
+            "avg_annual_rainfall": 845.9499999999999,
+            "temp_difference": 0.22290223248652907,
+            "rainfall_difference": -94.48481308411226
+        },
+        {
+            "id": "63466cceb6f1379c6229c7ac",
+            "year": 1958,
+            "avg_annual_temp": 23.866666666666664,
+            "avg_annual_rainfall": 1000.8833333333333,
+            "temp_difference": 0.1729022324865248,
+            "rainfall_difference": 60.44852024922113
+        },
+        {
+            "id": "63466cceb6f1379c6229c7ad",
+            "year": 1959,
+            "avg_annual_temp": 23.849999999999998,
+            "avg_annual_rainfall": 957.7166666666666,
+            "temp_difference": 0.1562355658198591,
+            "rainfall_difference": 17.28185358255439
+        },
+        {
+            "id": "63466cceb6f1379c6229c7ae",
+            "year": 1960,
+            "avg_annual_temp": 23.366666666666664,
+            "avg_annual_rainfall": 977.3166666666666,
+            "temp_difference": -0.3270977675134752,
+            "rainfall_difference": 36.88185358255441
+        },
+        {
+            "id": "63466cceb6f1379c6229c7af",
+            "year": 1961,
+            "avg_annual_temp": 23.983333333333334,
+            "avg_annual_rainfall": 895.0500000000001,
+            "temp_difference": 0.2895688991531955,
+            "rainfall_difference": -45.384813084112125
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b0",
+            "year": 1962,
+            "avg_annual_temp": 23.916666666666668,
+            "avg_annual_rainfall": 954.0,
+            "temp_difference": 0.22290223248652907,
+            "rainfall_difference": 13.565186915887807
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b1",
+            "year": 1963,
+            "avg_annual_temp": 23.483333333333334,
+            "avg_annual_rainfall": 1122.0166666666667,
+            "temp_difference": -0.2104311008468045,
+            "rainfall_difference": 181.58185358255446
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b2",
+            "year": 1964,
+            "avg_annual_temp": 23.383333333333336,
+            "avg_annual_rainfall": 1009.22,
+            "temp_difference": -0.31043110084680237,
+            "rainfall_difference": 68.78518691588783
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b3",
+            "year": 1965,
+            "avg_annual_temp": 23.816666666666666,
+            "avg_annual_rainfall": 910.2166666666667,
+            "temp_difference": 0.12290223248652765,
+            "rainfall_difference": -30.218146417445496
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b4",
+            "year": 1966,
+            "avg_annual_temp": 23.46666666666667,
+            "avg_annual_rainfall": 933.5333333333333,
+            "temp_difference": -0.22709776751347022,
+            "rainfall_difference": -6.90147975077889
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b5",
+            "year": 1967,
+            "avg_annual_temp": 23.833333333333332,
+            "avg_annual_rainfall": 1110.75,
+            "temp_difference": 0.13956889915319337,
+            "rainfall_difference": 170.3151869158878
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b6",
+            "year": 1968,
+            "avg_annual_temp": 23.616666666666664,
+            "avg_annual_rainfall": 954.9833333333332,
+            "temp_difference": -0.07709776751347519,
+            "rainfall_difference": 14.548520249221042
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b7",
+            "year": 1969,
+            "avg_annual_temp": 23.916666666666668,
+            "avg_annual_rainfall": 1037.5833333333333,
+            "temp_difference": 0.22290223248652907,
+            "rainfall_difference": 97.14852024922106
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b8",
+            "year": 1970,
+            "avg_annual_temp": 23.78333333333333,
+            "avg_annual_rainfall": 1008.4166666666666,
+            "temp_difference": 0.08956889915319266,
+            "rainfall_difference": 67.98185358255444
+        },
+        {
+            "id": "63466cceb6f1379c6229c7b9",
+            "year": 1971,
+            "avg_annual_temp": 22.985714285714288,
+            "avg_annual_rainfall": 1073.5714285714287,
+            "temp_difference": -0.7080501484658512,
+            "rainfall_difference": 133.13661548731648
+        },
+        {
+            "id": "63466cceb6f1379c6229c7ba",
+            "year": 1972,
+            "avg_annual_temp": 23.7,
+            "avg_annual_rainfall": 986.3000000000001,
+            "temp_difference": 0.006235565819860511,
+            "rainfall_difference": 45.865186915887875
+        },
+        {
+            "id": "63466cceb6f1379c6229c7bb",
+            "year": 1973,
+            "avg_annual_temp": 23.557142857142857,
+            "avg_annual_rainfall": 1075.7142857142858,
+            "temp_difference": -0.13662157703728184,
+            "rainfall_difference": 135.2794726301736
+        },
+        {
+            "id": "63466cceb6f1379c6229c7bc",
+            "year": 1974,
+            "avg_annual_temp": 22.942857142857143,
+            "avg_annual_rainfall": 1334.8999999999999,
+            "temp_difference": -0.7509072913229957,
+            "rainfall_difference": 394.46518691588767
+        },
+        {
+            "id": "63466cceb6f1379c6229c7bd",
+            "year": 1975,
+            "avg_annual_temp": 23.400000000000002,
+            "avg_annual_rainfall": 956.4,
+            "temp_difference": -0.29376443418013665,
+            "rainfall_difference": 15.965186915887784
+        },
+        {
+            "id": "63466cceb6f1379c6229c7be",
+            "year": 1976,
+            "avg_annual_temp": 23.228571428571428,
+            "avg_annual_rainfall": 974.7714285714285,
+            "temp_difference": -0.465193005608711,
+            "rainfall_difference": 34.336615487316294
+        },
+        {
+            "id": "63466cceb6f1379c6229c7bf",
+            "year": 1977,
+            "avg_annual_temp": 23.542857142857144,
+            "avg_annual_rainfall": 861.6714285714286,
+            "temp_difference": -0.1509072913229943,
+            "rainfall_difference": -78.76338451268361
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c0",
+            "year": 1978,
+            "avg_annual_temp": 23.12857142857143,
+            "avg_annual_rainfall": 1012.3000000000001,
+            "temp_difference": -0.5651930056087089,
+            "rainfall_difference": 71.86518691588788
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c1",
+            "year": 1979,
+            "avg_annual_temp": 23.599999999999998,
+            "avg_annual_rainfall": 680.0571428571428,
+            "temp_difference": -0.09376443418014091,
+            "rainfall_difference": -260.37767022696937
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c2",
+            "year": 1980,
+            "avg_annual_temp": 23.814285714285717,
+            "avg_annual_rainfall": 820.1428571428571,
+            "temp_difference": 0.12052128010557794,
+            "rainfall_difference": -120.29195594125508
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c3",
+            "year": 1981,
+            "avg_annual_temp": 23.442857142857143,
+            "avg_annual_rainfall": 1035.8714285714286,
+            "temp_difference": -0.2509072913229957,
+            "rainfall_difference": 95.43661548731643
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c4",
+            "year": 1982,
+            "avg_annual_temp": 23.614285714285717,
+            "avg_annual_rainfall": 759.6285714285714,
+            "temp_difference": -0.07947871989442135,
+            "rainfall_difference": -180.80624165554082
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c5",
+            "year": 1983,
+            "avg_annual_temp": 23.271428571428572,
+            "avg_annual_rainfall": 1050.5,
+            "temp_difference": -0.42233586275156654,
+            "rainfall_difference": 110.06518691588781
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c6",
+            "year": 1984,
+            "avg_annual_temp": 22.97142857142857,
+            "avg_annual_rainfall": 1009.7857142857143,
+            "temp_difference": -0.7223358627515672,
+            "rainfall_difference": 69.35090120160214
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c7",
+            "year": 1985,
+            "avg_annual_temp": 23.24285714285714,
+            "avg_annual_rainfall": 861.8000000000001,
+            "temp_difference": -0.45090729132299856,
+            "rainfall_difference": -78.63481308411212
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c8",
+            "year": 1986,
+            "avg_annual_temp": 23.071428571428573,
+            "avg_annual_rainfall": 894.5571428571428,
+            "temp_difference": -0.6223358627515658,
+            "rainfall_difference": -45.87767022696937
+        },
+        {
+            "id": "63466cceb6f1379c6229c7c9",
+            "year": 1987,
+            "avg_annual_temp": 23.385714285714283,
+            "avg_annual_rainfall": 968.6857142857143,
+            "temp_difference": -0.3080501484658562,
+            "rainfall_difference": 28.25090120160212
+        },
+        {
+            "id": "63466cceb6f1379c6229c7ca",
+            "year": 1988,
+            "avg_annual_temp": 23.842857142857145,
+            "avg_annual_rainfall": 1119.8142857142857,
+            "temp_difference": 0.1490927086770064,
+            "rainfall_difference": 179.3794726301735
+        },
+        {
+            "id": "63466cceb6f1379c6229c7cb",
+            "year": 1989,
+            "avg_annual_temp": 23.214285714285715,
+            "avg_annual_rainfall": 945.9714285714286,
+            "temp_difference": -0.4794787198944235,
+            "rainfall_difference": 5.536615487316453
+        },
+        {
+            "id": "63466cceb6f1379c6229c7cc",
+            "year": 1990,
+            "avg_annual_temp": 23.400000000000002,
+            "avg_annual_rainfall": 986.0142857142857,
+            "temp_difference": -0.29376443418013665,
+            "rainfall_difference": 45.57947263017354
+        },
+        {
+            "id": "63466cceb6f1379c6229c7cd",
+            "year": 1991,
+            "avg_annual_temp": 23.62857142857143,
+            "avg_annual_rainfall": 921.9571428571428,
+            "temp_difference": -0.06519300560870889,
+            "rainfall_difference": -18.477670226969394
+        },
+        {
+            "id": "63466cceb6f1379c6229c7ce",
+            "year": 1992,
+            "avg_annual_temp": 22.8,
+            "avg_annual_rainfall": 995.4857142857143,
+            "temp_difference": -0.8937644341801381,
+            "rainfall_difference": 55.05090120160207
+        },
+        {
+            "id": "63466cceb6f1379c6229c7cf",
+            "year": 1993,
+            "avg_annual_temp": 23.61428571428571,
+            "avg_annual_rainfall": 803.5857142857143,
+            "temp_difference": -0.07947871989442845,
+            "rainfall_difference": -136.8490987983979
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d0",
+            "year": 1994,
+            "avg_annual_temp": 23.642857142857142,
+            "avg_annual_rainfall": 758.6,
+            "temp_difference": -0.05090729132299643,
+            "rainfall_difference": -181.83481308411217
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d1",
+            "year": 1995,
+            "avg_annual_temp": 23.042857142857144,
+            "avg_annual_rainfall": 1044.557142857143,
+            "temp_difference": -0.6509072913229943,
+            "rainfall_difference": 104.12232977303074
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d2",
+            "year": 1996,
+            "avg_annual_temp": 23.228571428571428,
+            "avg_annual_rainfall": 1029.0857142857142,
+            "temp_difference": -0.465193005608711,
+            "rainfall_difference": 88.65090120160198
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d3",
+            "year": 1997,
+            "avg_annual_temp": 23.571428571428573,
+            "avg_annual_rainfall": 919.2714285714286,
+            "temp_difference": -0.12233586275156583,
+            "rainfall_difference": -21.163384512683592
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d4",
+            "year": 1998,
+            "avg_annual_temp": 23.771428571428572,
+            "avg_annual_rainfall": 1066.2857142857142,
+            "temp_difference": 0.07766413724843346,
+            "rainfall_difference": 125.85090120160203
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d5",
+            "year": 1999,
+            "avg_annual_temp": 23.614285714285717,
+            "avg_annual_rainfall": 1014.3428571428573,
+            "temp_difference": -0.07947871989442135,
+            "rainfall_difference": 73.90804405874508
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d6",
+            "year": 2000,
+            "avg_annual_temp": 23.814285714285713,
+            "avg_annual_rainfall": 825.1142857142858,
+            "temp_difference": 0.12052128010557439,
+            "rainfall_difference": -115.32052736982644
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d7",
+            "year": 2001,
+            "avg_annual_temp": 23.75714285714286,
+            "avg_annual_rainfall": 880.7714285714285,
+            "temp_difference": 0.063378422962721,
+            "rainfall_difference": -59.663384512683706
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d8",
+            "year": 2002,
+            "avg_annual_temp": 24.142857142857142,
+            "avg_annual_rainfall": 652.9142857142857,
+            "temp_difference": 0.44909270867700357,
+            "rainfall_difference": -287.5205273698265
+        },
+        {
+            "id": "63466cceb6f1379c6229c7d9",
+            "year": 2003,
+            "avg_annual_temp": 23.82857142857143,
+            "avg_annual_rainfall": 920.157142857143,
+            "temp_difference": 0.1348069943912904,
+            "rainfall_difference": -20.277670226969235
+        },
+        {
+            "id": "63466cceb6f1379c6229c7da",
+            "year": 2004,
+            "avg_annual_temp": 23.8,
+            "avg_annual_rainfall": 849.9285714285714,
+            "temp_difference": 0.10623556581986193,
+            "rainfall_difference": -90.50624165554075
+        },
+        {
+            "id": "63466cceb6f1379c6229c7db",
+            "year": 2005,
+            "avg_annual_temp": 24.12857142857143,
+            "avg_annual_rainfall": 784.9571428571428,
+            "temp_difference": 0.4348069943912911,
+            "rainfall_difference": -155.4776702269694
+        },
+        {
+            "id": "63466cceb6f1379c6229c7dc",
+            "year": 2006,
+            "avg_annual_temp": 23.928571428571427,
+            "avg_annual_rainfall": 706.2,
+            "temp_difference": 0.23480699439128827,
+            "rainfall_difference": -234.23481308411215
+        },
+        {
+            "id": "63466cceb6f1379c6229c7dd",
+            "year": 2007,
+            "avg_annual_temp": 24.2,
+            "avg_annual_rainfall": 871.4857142857144,
+            "temp_difference": 0.5062355658198605,
+            "rainfall_difference": -68.94909879839781
+        },
+        {
+            "id": "63466cceb6f1379c6229c7de",
+            "year": 2008,
+            "avg_annual_temp": 23.7,
+            "avg_annual_rainfall": 907.4428571428572,
+            "temp_difference": 0.006235565819860511,
+            "rainfall_difference": -32.991955941255014
+        },
+        {
+            "id": "63466cceb6f1379c6229c7df",
+            "year": 2009,
+            "avg_annual_temp": 24.3,
+            "avg_annual_rainfall": 902.6,
+            "temp_difference": 0.6062355658198619,
+            "rainfall_difference": -37.83481308411217
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e0",
+            "year": 2010,
+            "avg_annual_temp": 23.87142857142857,
+            "avg_annual_rainfall": 1057.8857142857144,
+            "temp_difference": 0.17766413724843133,
+            "rainfall_difference": 117.45090120160216
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e1",
+            "year": 2011,
+            "avg_annual_temp": 23.728571428571428,
+            "avg_annual_rainfall": 1137.8857142857144,
+            "temp_difference": 0.03480699439128898,
+            "rainfall_difference": 197.45090120160216
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e2",
+            "year": 2012,
+            "avg_annual_temp": 24.0,
+            "avg_annual_rainfall": 903.5285714285714,
+            "temp_difference": 0.3062355658198612,
+            "rainfall_difference": -36.90624165554084
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e3",
+            "year": 2013,
+            "avg_annual_temp": 24.457142857142856,
+            "avg_annual_rainfall": 961.4,
+            "temp_difference": 0.7633784229627167,
+            "rainfall_difference": 20.965186915887784
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e4",
+            "year": 2014,
+            "avg_annual_temp": 24.557142857142857,
+            "avg_annual_rainfall": 793.6500000000001,
+            "temp_difference": 0.8633784229627182,
+            "rainfall_difference": -146.7848130841121
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e5",
+            "year": 2015,
+            "avg_annual_temp": 24.24285714285714,
+            "avg_annual_rainfall": 892.0,
+            "temp_difference": 0.5490927086770014,
+            "rainfall_difference": -48.43481308411219
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e6",
+            "year": 2016,
+            "avg_annual_temp": 24.271428571428572,
+            "avg_annual_rainfall": 918.0285714285714,
+            "temp_difference": 0.5776641372484335,
+            "rainfall_difference": -22.40624165554084
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e7",
+            "year": 2017,
+            "avg_annual_temp": 24.542857142857144,
+            "avg_annual_rainfall": 871.8799999999999,
+            "temp_difference": 0.8490927086770057,
+            "rainfall_difference": -68.55481308411231
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e8",
+            "year": 2018,
+            "avg_annual_temp": 24.47142857142857,
+            "avg_annual_rainfall": 838.4499999999999,
+            "temp_difference": 0.7776641372484328,
+            "rainfall_difference": -101.98481308411226
+        },
+        {
+            "id": "63466cceb6f1379c6229c7e9",
+            "year": 2019,
+            "avg_annual_temp": 24.97142857142857,
+            "avg_annual_rainfall": 585.1,
+            "temp_difference": 1.2776641372484328,
+            "rainfall_difference": -355.33481308411217
+        }
+    ]
+}

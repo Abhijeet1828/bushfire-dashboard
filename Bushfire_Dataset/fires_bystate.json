@@ -1,0 +1,76 @@
+{
+    "result": [
+        {
+            "id": "63466b4cd2ad4033b376ee31",
+            "state": "Northern Territory",
+            "fatalities": 0,
+            "homeslost": 5,
+            "area_burned_ha": 6800000,
+            "area_burned_acres": 16800000
+        },
+        {
+            "id": "63466b4cd2ad4033b376ee32",
+            "state": "New South Wales",
+            "fatalities": 26,
+            "homeslost": 2448,
+            "area_burned_ha": 5500000,
+            "area_burned_acres": 13600000
+        },
+        {
+            "id": "63466b4cd2ad4033b376ee33",
+            "state": "Queensland",
+            "fatalities": 0,
+            "homeslost": 48,
+            "area_burned_ha": 2500000,
+            "area_burned_acres": 6180000
+        },
+        {
+            "id": "63466b4cd2ad4033b376ee34",
+            "state": "Western Australia",
+            "fatalities": 0,
+            "homeslost": 1,
+            "area_burned_ha": 2200000,
+            "area_burned_acres": 5440000
+        },
+        {
+            "id": "63466b4cd2ad4033b376ee35",
+            "state": "Victoria",
+            "fatalities": 5,
+            "homeslost": 396,
+            "area_burned_ha": 1500000,
+            "area_burned_acres": 3710000
+        },
+        {
+            "id": "63466b4cd2ad4033b376ee36",
+            "state": "South Australia",
+            "fatalities": 3,
+            "homeslost": 151,
+            "area_burned_ha": 490000,
+            "area_burned_acres": 1210000
+        },
+        {
+            "id": "63466b4cd2ad4033b376ee37",
+            "state": "Australian Capital Territory",
+            "fatalities": 0,
+            "homeslost": 0,
+            "area_burned_ha": 86464,
+            "area_burned_acres": 213660
+        },
+        {
+            "id": "63466b4cd2ad4033b376ee38",
+            "state": "Tasmania",
+            "fatalities": 0,
+            "homeslost": 2,
+            "area_burned_ha": 36000,
+            "area_burned_acres": 89000
+        },
+        {
+            "id": "63466b4cd2ad4033b376ee39",
+            "state": "Total",
+            "fatalities": 34,
+            "homeslost": 3500,
+            "area_burned_ha": 18736070,
+            "area_burned_acres": 46300000
+        }
+    ]
+}
