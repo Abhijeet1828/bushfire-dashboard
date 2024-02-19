@@ -64,32 +64,28 @@ displayed as text on the user interface [5].
 
 ## References
 
-[1] Country Fire Authority (CFA) District Boundaries - Vicmap Admin - Victorian Govern-
-ment Data Directory — discover.data.vic.gov.au. https://discover.data.vic.gov.
-au/dataset/country-fire-authority-cfa-district-boundaries-vicmap-admin.
+[1] Country Fire Authority (CFA) District Boundaries - Vicmap Admin - Victorian Government Data Directory — discover.data.vic.gov.au. 
+[https://discover.data.vic.gov.au/dataset/country-fire-authority-cfa-district-boundaries-vicmap-admin]()
 [Accessed 25-Sep-2022].
 
-[2] Fire history overlay of most recent fires - victorian govern-
-ment data directory. https://discover.data.vic.gov.au/dataset/
-fire-history-overlay-of-most-recent-fires.
+[2] Fire history overlay of most recent fires - victorian government data directory. 
+[https://discover.data.vic.gov.au/dataset/fire-history-overlay-of-most-recent-fires]()
 
-[3] FOI - Point - Vicmap Features of Interest - Victorian Government Data Di-
-rectory — discover.data.vic.gov.au. https://discover.data.vic.gov.au/dataset/
-foi-point-vicmap-features-of-interest. [Accessed 25-Sep-2022].
+[3] FOI - Point - Vicmap Features of Interest - Victorian Government Data Directory — discover.data.vic.gov.au. 
+[https://discover.data.vic.gov.au/dataset/foi-point-vicmap-features-of-interest]() [Accessed 25-Sep-2022].
 
-[4] Neighbourhood Safer Places — cfa.vic.gov.au. https://www.cfa.vic.gov.au/
-plan-prepare/your-local-area-info-and-advice/neighbourhood-safer-places.
+[4] Neighbourhood Safer Places — cfa.vic.gov.au. 
+[https://www.cfa.vic.gov.au/plan-prepare/your-local-area-info-and-advice/neighbourhood-safer-places]()
 [Accessed 25-Sep-2022].
 
-[5] RSS Feeds — cfa.vic.gov.au.https://www.cfa.vic.gov.au/rss-feeds. [Accessed 25-
-Sep-2022].
+[5] RSS Feeds — cfa.vic.gov.au. 
+[https://www.cfa.vic.gov.au/rss-feeds]() [Accessed 25-Sep-2022].
 
-[6] Visualizing Australian Fires — australia-fire-api-dashboard.herokuapp.com. https://
-australia-fire-api-dashboard.herokuapp.com/api/v1.0/docs. [Accessed 25-Sep-
-2022].
+[6] Visualizing Australian Fires — australia-fire-api-dashboard.herokuapp.com. 
+[https://australia-fire-api-dashboard.herokuapp.com/api/v1.0/docs](). 
+[Accessed 25-Sep-2022].
 
 [7] Wikipedia contributors. List of major bushfires in australia — Wikipedia, the
-free encyclopedia. https://en.wikipedia.org/w/index.php?title=List_of_major_
-bushfires_in_Australia&oldid=1109820864, 2022.
+free encyclopedia. [https://en.wikipedia.org/w/index.php?title=List_of_major_bushfires_in_Australia&oldid=1109820864,2022]()
 
 
